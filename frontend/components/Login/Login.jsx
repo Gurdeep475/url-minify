@@ -69,7 +69,7 @@ function Login() {
             placeholder="Password"
           />
         </div>
-        <Link href="/">
+        <Link href="/login">
           <button type="submit" className="submit-button">
             Submit
           </button>
